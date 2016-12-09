@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belatrix.Helper", "Belatrix.Helper\Belatrix.Helper.csproj", "{A109F56F-AEB5-499A-9A57-9FC8BB6296B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belatrix.Consola", "Belatrix.Consola\Belatrix.Consola.csproj", "{111CC20F-16F3-40DD-BB68-7F94C36A365A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belatrix.Test", "Belatrix.Test\Belatrix.Test.csproj", "{768AF666-150B-4E6D-9522-05F62EACBFF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A109F56F-AEB5-499A-9A57-9FC8BB6296B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A109F56F-AEB5-499A-9A57-9FC8BB6296B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A109F56F-AEB5-499A-9A57-9FC8BB6296B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A109F56F-AEB5-499A-9A57-9FC8BB6296B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111CC20F-16F3-40DD-BB68-7F94C36A365A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111CC20F-16F3-40DD-BB68-7F94C36A365A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111CC20F-16F3-40DD-BB68-7F94C36A365A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111CC20F-16F3-40DD-BB68-7F94C36A365A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768AF666-150B-4E6D-9522-05F62EACBFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768AF666-150B-4E6D-9522-05F62EACBFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768AF666-150B-4E6D-9522-05F62EACBFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768AF666-150B-4E6D-9522-05F62EACBFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
